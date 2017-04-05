@@ -738,7 +738,6 @@ You Don't Know JavaScript
 #### Java
 - [ ] [Introduction to Java Programming](https://drive.google.com/file/d/0BxSFwVjo7MPDeHN5ZUVSV2V5ZTQ/view)
 
-
 #### tutorialspoint
 - [ ] [Android Application Development](https://www.tutorialspoint.com/android/android_tutorial.pdf)
 - [ ] [HTML](http://www.tutorialspoint.com/html/html_tutorial.pdf)
