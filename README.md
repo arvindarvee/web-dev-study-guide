@@ -1,12 +1,12 @@
-Epicodus Study Guide
+Web Development Study Guide
 ====================
-#### All the courses I plan to take offered at the companion site, [learnhowtoprogram.com](https://www.learnhowtoprogram.com/courses) in a convenient checklist.
+#### All the courses I plan to take are provided for free on Epicodus' companion website [learnhowtoprogram.com](https://www.learnhowtoprogram.com/courses). They are ordered and included in a convenient checklist.
 
 *****
 
 ## Courses
 
-### Intro to Programming
+### Intro to Programming(Epicodus)
 
 #### (Pre-Work) Getting Started at Epicodus
 - [ ] [Weekend Learn How to Program](https://www.learnhowtoprogram.com/intro-to-programming/getting-started-at-epicodus-64627971-b5be-49e7-a8d7-7ca55d0c9e88/learn-how-to-program)
@@ -153,26 +153,600 @@ Epicodus Study Guide
 - [ ] [Friday JavaScript Arrays & Looping Independent Project](https://www.learnhowtoprogram.com/intro-to-programming/arrays-looping/javascript-arrays-looping-independent-project)
 
 #### (Week 4) Object-Oriented JavaScript
-- [ ] [Weekend Object-Oriented JavaScript Objectives]()
-- [ ] [Weekend JavaScript Objects]()
-- [ ] [Weekend Literal Notation vs Constructors]()
-- [ ] [Weekend Constructors and Prototypes]()
-- [ ] [Weekend Address Book: Constructor]()
-- [ ] [Weekend Address Book: Prototype]()
-- [ ] [Weekend Intro Team Week: Project Pitch]()
-- [ ] [Monday Practice: Address Book, Places You've Been and To Do]()
-- [ ] [Monday Homework: Objects within Objects]()
-- [ ] [Monday Homework: Address Book Objects within Objects - Business Logic]()
-- [ ] [Monday Homework: Address Book Objects within Objects - User Interface Logic]()
-- [ ] [Monday Homework: Address Book Prototype 2]()
-- [ ] [Monday Optional Homework: Address Book Refactoring]()
-- [ ] [Tuesday Practice: Address Book, Movie Tickets, Bank Account]()
-- [ ] [Wednesday Game of Choice (Two-Day project)]()
+- [ ] [Weekend Object-Oriented JavaScript Objectives](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/object-oriented-javascript-objectives-c6cae654-da4d-4cba-991e-0b24ea5bb2c5)
+- [ ] [Weekend JavaScript Objects](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/javascript-objects)
+- [ ] [Weekend Literal Notation vs Constructors](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/literal-notation-vs-constructors)
+- [ ] [Weekend Constructors and Prototypes](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/constructors-and-prototypes)
+- [ ] [Weekend Address Book: Constructor](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/address-book-constructor)
+- [ ] [Weekend Address Book: Prototype](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/address-book-prototype)
+- [ ] [Weekend Intro Team Week: Project Pitch](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/intro-team-week-project-pitch)
+- [ ] [Monday Practice: Address Book, Places You've Been and To Do](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/practice-address-book-places-you-ve-been-and-to-do)
+- [ ] [Monday Homework: Objects within Objects](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/homework-objects-within-objects)
+- [ ] [Monday Homework: Address Book Objects within Objects - Business Logic](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/homework-address-book-objects-within-objects-business-logic-ee56d6dd-93c4-4b89-9b8b-fe5f05663998)
+- [ ] [Monday Homework: Address Book Objects within Objects - User Interface Logic](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/homework-address-book-objects-within-objects-user-interface-logic)
+- [ ] [Monday Homework: Address Book Prototype 2](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/homework-address-book-prototype-2)
+- [ ] [Monday Optional Homework: Address Book Refactoring](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/optional-homework-address-book-refactoring)
+- [ ] [Tuesday Practice: Address Book, Movie Tickets, Bank Account](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/practice-address-book-movie-tickets-bank-account)
+- [ ] [Wednesday Game of Choice (Two-Day project)](https://www.learnhowtoprogram.com/intro-to-programming/object-oriented-javascript/game-of-choice-two-day-project)
+
+#### (Week 5) Team Week
+- [ ] [Weekend Team Week Objectives](https://www.learnhowtoprogram.com/intro-to-programming/team-week-5cb396b3-bace-46aa-83a6-b53aeecb9cd2/team-week-objectives)
+- [ ] [Weekend Git with Collaborators: Setup](https://www.learnhowtoprogram.com/intro-to-programming/team-week-5cb396b3-bace-46aa-83a6-b53aeecb9cd2/git-with-collaborators-setup)
+- [ ] [Weekend Git with Collaborators: Workflow](https://www.learnhowtoprogram.com/intro-to-programming/team-week-5cb396b3-bace-46aa-83a6-b53aeecb9cd2/git-with-collaborators-workflow)
+- [ ] [Monday Coding in Larger Teams](https://www.learnhowtoprogram.com/intro-to-programming/team-week-5cb396b3-bace-46aa-83a6-b53aeecb9cd2/coding-in-larger-teams)
+- [ ] [Monday Group Project Development](https://www.learnhowtoprogram.com/intro-to-programming/team-week-5cb396b3-bace-46aa-83a6-b53aeecb9cd2/group-project-development)
+- [ ] [Friday Team Week Presentations and Code Review](https://www.learnhowtoprogram.com/intro-to-programming/team-week-5cb396b3-bace-46aa-83a6-b53aeecb9cd2/team-week-presentations-and-code-review)
+
+******
+### CSS
+
+#### (Pre-Work) Getting started with CSS
+- [ ] [Weekend Welcome to CSS](https://www.learnhowtoprogram.com/css/getting-started-with-css/welcome-to-css)
+- [ ] [Weekend CSS Documentation](https://www.learnhowtoprogram.com/css/getting-started-with-css/css-documentation)
+- [ ] [Weekend Review: CSS Basics](https://www.learnhowtoprogram.com/css/getting-started-with-css/review-css-basics)
+
+#### (Week 1) Moving forward with CSS
+- [ ] [Weekend Moving forward with CSS objectives](https://www.learnhowtoprogram.com/css/moving-forward-with-css/moving-forward-with-css-objectives)
+- [ ] [Weekend All about CSS](https://www.learnhowtoprogram.com/css/moving-forward-with-css/all-about-css)
+- [ ] [Weekend Box-Sizing: border-box](https://www.learnhowtoprogram.com/css/moving-forward-with-css/box-sizing-border-box)
+- [ ] [Weekend Centering with CSS](https://www.learnhowtoprogram.com/css/moving-forward-with-css/centering-with-css)
+- [ ] [Weekend Block-level vs. inline](https://www.learnhowtoprogram.com/css/moving-forward-with-css/block-level-vs-inline)
+- [ ] [Monday Top 8, Div playground, Landing pages, Event flyer](https://www.learnhowtoprogram.com/css/moving-forward-with-css/block-level-vs-inline)
+- [ ] [Monday Styling with pseudo-classes](https://www.learnhowtoprogram.com/css/moving-forward-with-css/styling-with-pseudo-classes)
+- [ ] [Monday Using ::before and ::after pseudo-elements](https://www.learnhowtoprogram.com/css/moving-forward-with-css/using-before-and-after-pseudo-elements)
+- [ ] [Monday Positioning](https://www.learnhowtoprogram.com/css/moving-forward-with-css/positioning)
+- [ ] [Tuesday Pinboard and endangered species infographics](https://www.learnhowtoprogram.com/css/moving-forward-with-css/pinboard-and-endangered-species-infographics)
+- [ ] [Tuesday Floats](https://www.learnhowtoprogram.com/css/moving-forward-with-css/floats)
+- [ ] [Wednesday 2-column layout, Treehouse library, "About me" page](https://www.learnhowtoprogram.com/css/moving-forward-with-css/2-column-layout-treehouse-library-about-me-page)
+- [ ] [Wednesday Normalizing your CSS](https://www.learnhowtoprogram.com/css/moving-forward-with-css/normalizing-your-css)
+- [ ] [Wednesday Selector level up](https://www.learnhowtoprogram.com/css/moving-forward-with-css/selector-level-up)
+- [ ] [Wednesday Styling HTML forms](https://www.learnhowtoprogram.com/css/moving-forward-with-css/styling-html-forms)
+- [ ] [Wednesday Tables](https://www.learnhowtoprogram.com/css/moving-forward-with-css/tables)
+- [ ] [Thursday Contact form, Films table, Scores table, Nutrition facts](https://www.learnhowtoprogram.com/css/moving-forward-with-css/contact-form-films-table-scores-table-nutrition-facts)
+
+#### (Week 2) Responsive design
+-[ ] [Weekend Responsive design objectives]()
+-[ ] [Weekend Media queries]()
+-[ ] [Weekend Responsive layout]()
+-[ ] [Weekend Responsive wireframing]()
+-[ ] [Monday Media queries practice, fluid images, Baker Street, fan page]()
+-[ ] [Monday Responsive design patterns]()
+-[ ] [Tuesday Patterns and parks]()
+-[ ] [Tuesday Using Bootstrap's grid]()
+-[ ] [Wednesday Bootstrap grid practice, Bagdad, Food Sense, OMSI]()
+-[ ] [Thursday Choose your own adventure: Frameworks and jQuery]()
+-[ ] [Thursday Weekly Technical Interview Prep: Responsive Design]()
+
+#### (Week 3) Sass
+- [ ] [Weekend Sass Objectives]()
+- [ ] [Weekend What is Sass?]()
+- [ ] [Weekend Installing and using Sass]()
+- [ ] [Weekend Learning Sass]()
+- [ ] [Monday Sass practice]()
+- [ ] [Monday Learning to think modularly]()
+- [ ] [Tuesday CSS to Sass, library redux]()
+- [ ] [Tuesday Structuring your Sass project]()
+- [ ] [Tuesday Incorporating Bourbon and Neat]()
+- [ ] [Wednesday The Guardian, Facebook, periodic table (2-day project)]()
+- [ ] [Thursday Weekly Technical Interview Prep: Sass]()
+- [ ] [Friday Sass independent project]()
+
+#### (Week 4) Beyond the basics
+- [ ] [Weekend Beyond the basics objectives]()
+- [ ] [Weekend What is Flexbox?]()
+- [ ] [Weekend Cross-browser compatibility, vendor prefixes, autoprefixer]()
+- [ ] [Monday Flexbox Defense, flexy panels, dice, practical examples]()
+- [ ] [Monday Using Flexbox -- other practical examples]()
+- [ ] [Tuesday Practical examples, Nike, Album Art Exchange]()
+- [ ] [Tuesday Understanding CSS transitions and transforms]()
+- [ ] [Tuesday Understanding CSS animations]()
+- [ ] [Wednesday CodePen adventures]()
+- [ ] [Thursday Laying the groundwork for a personal portfolio (solo day)]()
+- [ ] [Friday Beyond the basics independent project]()
 
 #### (Week 5) Team Week
 - [ ] [Weekend Team Week Objectives]()
-- [ ] [Weekend Git with Collaborators: Setup]()
-- [ ] [Weekend Git with Collaborators: Workflow]()
-- [ ] [Monday Coding in Larger Teams]()
-- [ ] [Monday Group Project Development]()
+- [ ] [Monday Git with Collaborators: Setup]()
+- [ ] [Monday Git with Collaborators: Workflow]()
 - [ ] [Friday Team Week Presentations and Code Review]()
+
+*****
+
+### JavaScript
+
+#### (Pre-Work) Getting Started with JavaScript
+- [ ] [Weekend Welcome to JavaScript]()
+- [ ] [Weekend JavaScript Documentation and Resources]()
+- [ ] [Weekend Installing Node.js]()
+- [ ] [Weekend JavaScript Installation and Setup Homework]()
+
+#### (Pre-Work) Introduction to JavaScript
+- [ ] [Weekend Review: Object-Oriented JavaScript]()
+- [ ] [Weekend Build Tools]()
+- [ ] [Weekend Object Oriented JavaScript with Node Modules]()
+- [ ] [Weekend Introducing Npm and Gulp]()
+- [ ] [Weekend Writing Gulp Tasks]()
+- [ ] [Weekend Using Browserify with Gulp]()
+- [ ] [Weekend Concatenation]()
+- [ ] [Weekend Minification]()
+- [ ] [Weekend Build and Clean Tasks]()
+- [ ] [Weekend JSHint]()
+- [ ] [Weekend Dissecting a Gulpfile]()
+- [ ] [Weekend Node Commands Overview]()
+
+#### (Week 1) Modern JS Apps
+- [ ] [Weekend Modern JS Apps Objectives]()
+- [ ] [Monday Practice with Gulp and npm]()
+- [ ] [Monday Introducing Bower]()
+- [ ] [Monday Introduction to APIs and AJAX]()
+- [ ] [Monday Retrieving Data from an API]()
+- [ ] [Monday Promises and Asynchrony]()
+- [ ] [Monday Managing API Keys]()
+- [ ] [Monday Refactoring into Multiple Files]()
+- [ ] [Tuesday Alarm Clock, Weather App]()
+- [ ] [Tuesday Dissecting a Gulpfile]()
+- [ ] [Tuesday Node Commands Overview]()
+- [ ] [Tuesday Sass with Gulp]()
+- [ ] [Wednesday API-Driven App: Dino Ipsum, Bike Index, Google Maps (Two-day project)]()
+- [ ] [Thursday Weekly Technical Interview Prep]()
+
+#### (Week 2) Ember JS
+- [ ] [Weekend Ember.js Objectives]()
+- [ ] [Weekend Installing Ember.js]()
+- [ ] [Weekend Ember Core Concepts]()
+- [ ] [Weekend Application Setup and Structure]()
+- [ ] [Weekend Routes and Templates]()
+- [ ] [Weekend Models]()
+- [ ] [Weekend Ember Data and Firebase]()
+- [ ] [Weekend Components - Hide/Show Image]()
+- [ ] [Weekend Components - Delete]()
+- [ ] [Weekend Components - Save]()
+- [ ] [Weekend Ember Debugging]()
+- [ ] [Weekend Additional Pair Programming Tips]()
+- [ ] [Weekend Documenting the Development Process]()
+- [ ] [Monday Property Rental App]()
+- [ ] [Monday Components - Update]()
+- [ ] [Monday Dynamic Routing: Find Record]()
+- [ ] [Monday Add-ons: Bootstrap]()
+- [ ] [Monday Application Template]()
+- [ ] [Tuesday Bustle Clone]()
+- [ ] [Tuesday One Route: Multiple Models]()
+- [ ] [Wednesday Blog: Day One]()
+- [ ] [Wednesday Model Relationships]()
+- [ ] [Wednesday Deleting Model Relationships]()
+- [ ] [Thursday Blog: Day Two]()
+- [ ] [Thursday Weekly Technical Interview Prep: Ember]()
+
+#### (Week 3) Angular JS
+- [ ] [Weekend Angular JS Objectives]()
+- [ ] [Weekend TypeScript: Introduction and Installation]()
+- [ ] [Weekend TypeScript: Compiling and Optional Typing]()
+- [ ] [Weekend TypeScript: Declaring Custom Classes]()
+- [ ] [Weekend TypeScript: Methods and Looping]()
+- [ ] [Monday TypeScript Practice and Intro to Angular 2]()
+- [ ] [Monday Modern JavaScript MVCs]()
+- [ ] [Monday Introduction to Angular 2]()
+- [ ] [Monday Angular 2 Setup: Dependencies, Build Tools, and TypeScript]()
+- [ ] [Monday Angular 2 Setup: Root Component, Root Module, and More]()
+- [ ] [Monday Views: Displaying Dynamic Data]()
+- [ ] [Monday Creating a Model]()
+- [ ] [Monday Views: Introduction to Directives]()
+- [ ] [Tuesday To Do, Recipe Box]()
+- [ ] [Tuesday Event Bindings]()
+- [ ] [Tuesday One-Way Data Bindings and Property Bindings]()
+- [ ] [Tuesday Two-Way Data Binding]()
+- [ ] [Tuesday Views: Conditional Directives]()
+- [ ] [Wednesday Tap Room (Two-Day Project)]()
+- [ ] [Wednesday Nested Components]()
+- [ ] [Wednesday "Data Down, Actions Up" with Inputs and EventEmitters]()
+- [ ] [Wednesday Editing Models]()
+- [ ] [Wednesday Template Reference Variables and Creating Objects]()
+- [ ] [Wednesday Filtering Data with Pipes]()
+- [ ] [Thursday Weekly Technical Interview Prep: Angular]()
+
+#### (Week 4) Angular Extended
+- [ ] [Weekend Angular Extended Objectives]()
+- [ ] [Weekend Team Week: Project Pitch]()
+- [ ] [Weekend Angular CLI: Installation and Setup]()
+- [ ] [Weekend Angular CLI: Creating a Project]()
+- [ ] [Weekend Angular CLI: Bower Setup]()
+- [ ] [Weekend Angular CLI: Developing, Building and Serving]()
+- [ ] [Weekend Multi-Page Angular Applications]()
+- [ ] [Weekend Implementing a Router]()
+- [ ] [Weekend Managing and Navigating Multiple Routes]()
+- [ ] [Monday Online Store, Discussion Forum, Craigslist]()
+- [ ] [Monday Dynamic Routing: Navigation]()
+- [ ] [Monday Dynamic Routing: Retrieving Parameters]()
+- [ ] [Monday Dependency Injection]()
+- [ ] [Monday Services]()
+- [ ] [Tuesday Online Store, Choose Your Own Adventure]()
+- [ ] [Tuesday Firebase: Introduction and Setup]()
+- [ ] [Tuesday Firebase: Retrieving Data]()
+- [ ] [Tuesday Firebase: Saving Data]()
+- [ ] [Tuesday Firebase: Finding and Retrieving Entries]()
+- [ ] [Wednesday Crowdfunding, Minesweeper (Two-Day Project)]()
+- [ ] [Wednesday Firebase: Updating Entries]()
+- [ ] [Wednesday Firebase: Deleting Entries]()
+- [ ] [Thursday Weekly Technical Interview Prep: Angular Extended]()
+- [ ] [Thursday Optional: Deploying Angular Applications]()
+- [ ] [Thursday Optional: Subscribing to Observables]()
+
+#### (Week 5) Team Week
+- [ ] [Weekend Team Week Objectives]()
+- [ ] [Monday Git with Collaborators: Setup]()
+- [ ] [Monday Git with Collaborators: Workflow]()
+- [ ] [Monday Git: Rewriting History]()
+- [ ] [Thursday Team Week Presentations and Code Review]()
+
+******
+
+### Java
+
+#### (Pre-Work) Getting Started with Java
+- [ ] [Weekend Welcome to Java]()
+- [ ] [Weekend Installing Java: OSX]()
+- [ ] [Weekend Installing Java: Windows]()
+- [ ] [Weekend Java Documentation and Resources]()
+- [ ] [Weekend Java Installation and Setup Homework]()
+
+#### (Pre-Work) Java Basics
+- [ ] [Weekend Java REPL]()
+- [ ] [Weekend Strings and Concatenation]()
+- [ ] [Weekend Practice: Strings and Concatenation]()
+- [ ] [Weekend Integers and Arithmetic]()
+- [ ] [Weekend Practice: Integers and Arithmetic]()
+- [ ] [Weekend Variable Assignment]()
+- [ ] [Weekend Practice: Variable Assignment]()
+- [ ] [Weekend Objects and Methods]()
+- [ ] [Weekend Method Arguments]()
+- [ ] [Weekend Practice: Java Methods]()
+- [ ] [Weekend Primitives and Wrapper Classes]()
+
+#### (Pre-Work) Java Applications
+- [ ] [Weekend Writing a Java Program]()
+- [ ] [Weekend Compiling and Running a Java Program]()
+- [ ] [Weekend Practice: Writing, Compiling and Running a Program]()
+- [ ] [Weekend Importing Code]()
+- [ ] [Weekend Optional: Resolving Issues with System In / Console ReadLine]()
+- [ ] [Weekend Practice: Importing Code]()
+- [ ] [Weekend Transforming Data Types]()
+- [ ] [Weekend Practice: Transforming Data Types]()
+- [ ] [Weekend Writing Custom Methods]()
+- [ ] [Weekend Practice: Writing Custom Methods]()
+
+#### (Pre-Work) Java Branching and Looping
+- [ ] [Weekend Branching with Booleans]()
+- [ ] [Weekend Practice: Branching with Booleans]()
+- [ ] [Weekend Branching with Logical Operators]()
+- [ ] [Weekend Practice: Branching with Logical Operators]()
+- [ ] [Weekend Data Structures: Arrays]()
+- [ ] [Weekend Practice: Arrays]()
+- [ ] [Weekend For Each Loops]()
+- [ ] [Weekend Practice: For Each Loops]()
+- [ ] [Weekend For Loops]()
+- [ ] [Weekend Practice: For Loops]()
+
+#### (Week 1) Behavior-Driven Development with Java
+- [ ] [Weekend Behavior-Driven Development Objectives]()
+- [ ] [Monday Object-Oriented Java Practice]()
+- [ ] [Monday Declaring Classes]()
+- [ ] [Monday Practice: Declaring Classes]()
+- [ ] [Monday Using Custom Classes in Java Applications]()
+- [ ] [Monday Practice: Using Custom Classes in Java Applications]()
+- [ ] [Monday Custom Methods and Objects]()
+- [ ] [Monday Practice: Objects and Methods]()
+- [ ] [Monday Instantiating Objects with Constructors]()
+- [ ] [Monday Practice: Instantiating Objects with Constructors]()
+- [ ] [Monday Comparing Strings]()
+- [ ] [Monday Dynamically Creating Objects and Interacting with Users]()
+- [ ] [Monday Practice: Dynamic Objects and Comparing Strings]()
+- [ ] [Monday Data Structures: ArrayList]()
+- [ ] [Tuesday Triangle Tracker, CD Store, Parcels and Text-Based Adventure]()
+- [ ] [Tuesday Behavior-Driven Development Review]()
+- [ ] [Tuesday The "Red, Green, Refactor" Workflow]()
+- [ ] [Tuesday Gradle and Project Dependencies]()
+- [ ] [Tuesday Setting Up a Project with Gradle]()
+- [ ] [Tuesday Testing with JUnit]()
+- [ ] [Tuesday Red, Green, Refactor with JUnit]()
+- [ ] [Tuesday Debugging Java]()
+- [ ] [Wednesday Scrabble Scorer, Rock-Paper-Scissors, Testing for Randoms, Anagrams, and Prime Sifting]()
+- [ ] [Wednesday Leap Year with Behavior-Driven Development]()
+- [ ] [Wednesday Encapsulation and Visibility]()
+- [ ] [Wednesday Testing with Objects]()
+- [ ] [Wednesday Git: Ignoring Files]()
+- [ ] [Wednesday Java Primitives: char]()
+- [ ] [Wednesday Random]()
+- [ ] [Thursday Leap Year, Rectangles, Word Game, Blackjack, and More]()
+- [ ] [Thursday Formatted Strings]()
+- [ ] [Thursday Nested Looping]()
+
+#### (Week 2) Web Applications in Java
+- [ ] [Weekend Web Applications in Java Objectives]()
+- [ ] [Weekend Web Clients and Servers]()
+- [ ] [Weekend Uniform Resource Locator (URL)]()
+- [ ] [Weekend HTTP Requests]()
+- [ ] [Weekend HTTP Responses]()
+- [ ] [Weekend Web Developer Tools]()
+- [ ] [Weekend Introduction to Spark]()
+- [ ] [Weekend Velocity Templates in Spark]()
+- [ ] [Weekend Data Structures: HashMap]()
+- [ ] [Weekend Using Layouts in Spark]()
+- [ ] [Weekend Gathering Data with Forms]()
+- [ ] [Weekend More Routing and Form Practice]()
+- [ ] [Monday Hello Friend, Mad Libs, Change Machine, Previous Projects]()
+- [ ] [Monday Looping and Branching in Velocity Templates]()
+- [ ] [Monday Persisting Data with Spark Session Storage]()
+- [ ] [Monday To Do List: Back-End Logic]()
+- [ ] [Monday To Do List: Routing and User Interfaces]()
+- [ ] [Tuesday To Do, Places You've Been, CD Organizer]()
+- [ ] [Tuesday Static Variables and Methods]()
+- [ ] [Tuesday Objects in Objects]()
+- [ ] [Tuesday To Do List: Finding and Saving Objects]()
+- [ ] [Tuesday To Do List: RESTful Routes]()
+- [ ] [Tuesday To Do List: Objects within Objects]()
+- [ ] [Wednesday To Do List, Hobby Organizer, Job Board]()
+- [ ] [Wednesday Testing Objects Within Objects]()
+- [ ] [Wednesday Catching and Handling Exceptions]()
+- [ ] [Thursday More Practice, Go Fish, Squad]()
+- [ ] [Thursday Adding CSS to Spark Applications]()
+- [ ] [Thursday RESTful Routing with Objects Within Objects]()
+- [ ] [Thursday Optional: Deploying Spark Applications to Heroku]()
+
+#### (Week 3) Database Basics
+- [ ] [Weekend Database Basics Objectives]()
+- [ ] [Weekend Installing Postgres]()
+- [ ] [Weekend Database Relationships]()
+- [ ] [Weekend SQL Basics]()
+- [ ] [Weekend Database Naming Conventions]()
+- [ ] [Weekend Comparing Objects and Type Casting]()
+- [ ] [Weekend To Do List: Integrating a Database]()
+- [ ] [Weekend To Do List: One-to-Many Relationship]()
+- [ ] [Weekend To Do List: Integrating Spark with Databases]()
+- [ ] [Monday SQL and Schema Practice, To Do, Address Book]()
+- [ ] [Monday Select Form Fields in Spark]()
+- [ ] [Monday User Stories]()
+- [ ] [Monday CRUD, HTTP, Updating Objects, and Redirecting Responses]()
+- [ ] [Tuesday Animal Shelter, Doctor's Office]()
+- [ ] [Tuesday Deleting Objects]()
+- [ ] [Tuesday Backing Up and Restoring Schema]()
+- [ ] [Tuesday Refactoring Tests with Rules]()
+- [ ] [Wednesday Crowd-Sourced Review Site (Two-Day Project)]()
+- [ ] [Wednesday SQL: Querying, Ordering, and More]()
+- [ ] [Thursday Weekly Technical Interview Prep]()
+
+#### (Week 4) Advanced Topics in Java
+- [ ] [Weekend Advanced Topics Objectives]()
+- [ ] [Weekend Team Week: Project Pitch]()
+- [ ] [Weekend Virtual Pets: Class and Database Setup]()
+- [ ] [Weekend Virtual Pets: One-to-Many Relationship Setup]()
+- [ ] [Weekend Constants]()
+- [ ] [Weekend Virtual Pets: Interacting with Constants]()
+- [ ] [Weekend Throwing and Catching Exceptions]()
+- [ ] [Weekend Virtual Pets: Exceptions]()
+- [ ] [Weekend SQL: Dates and Timestamps]()
+- [ ] [Weekend Working with Dates in Java]()
+- [ ] [Weekend Automating and Scheduling Tasks]()
+- [ ] [Monday Virtual Pets, Sales Tracker or Library Catalog (Two-Day Project)]()
+- [ ] [Monday Inheritance and Polymorphism]()
+- [ ] [Monday Abstract Classes]()
+- [ ] [Monday Virtual Pets: Abstract Classes]()
+- [ ] [Monday Single Table Inheritance]()
+- [ ] [Tuesday Virtual Pets, Library or Sales Tracker (Continued)]()
+- [ ] [Tuesday Many-to-Many Database Relationships]()
+- [ ] [Tuesday Optional: Join Statements]()
+- [ ] [Wednesday Virtual Pets, Recipe Box or Blog]()
+- [ ] [Wednesday Interfaces]()
+- [ ] [Wednesday Defining and Implementing Interfaces]()
+- [ ] [Wednesday Abstract Classes vs. Interfaces]()
+- [ ] [Thursday Virtual Pets, Project of Choice]()
+- [ ] [Thursday Weekly Technical Interview Prep]()
+
+#### (Week 5) Team Week
+- [ ] [Weekend Team Week Objectives]()
+- [ ] [Monday Git with Collaborators: Setup]()
+- [ ] [Monday Git with Collaborators: Workflow]()
+- [ ] [Monday Git: Rewriting History]()
+- [ ] [Friday Team Week Presentations and Code Review]()
+
+******
+
+### Android
+
+#### (Pre-Work) Getting Started with Android
+- [ ] [Weekend Welcome to Android]()
+- [ ] [Weekend Installation]()
+- [ ] [Weekend Android Documentation and Resources]()
+- [ ] [Weekend Homework: Android Installation and Setup]()
+- [ ] [Weekend Android Weekly Independent Projects]()
+
+#### (Pre-Work) Introduction to Android
+- [ ] [Weekend Creating a New Project]()
+- [ ] [Weekend Android Emulator]()
+- [ ] [Weekend GitHub Integration]()
+- [ ] [Weekend Introduction to XML and Android Layouts]()
+- [ ] [Weekend Creating a Basic Layout]()
+- [ ] [Weekend Buttons and Toasts]()
+- [ ] [Weekend Intents]()
+- [ ] [Weekend User Input]()
+- [ ] [Weekend Passing Data Between Activities]()
+- [ ] [Weekend Unit Testing Basics with Robolectric]()
+- [ ] [Weekend UI Testing Basics with Espresso]()
+
+#### (Week 1) User Interface Basics
+- [ ] [Weekend User Interface Basics Objectives]()
+- [ ] [Monday MyRestaurants]()
+- [ ] [Monday Adding Custom Fonts]()
+- [ ] [Monday ArrayAdapters and ListViews]()
+- [ ] [Monday Implementing a ListView and ArrayAdapter]()
+- [ ] [Monday ButterKnife]()
+- [ ] [Monday Debugging: The Android Log]()
+- [ ] [Monday Debugging: Breakpoints and the Android Debugger]()
+- [ ] [Tuesday Doing more with ArrayAdapters - Customization]()
+- [ ] [Tuesday Mad Libs]()
+- [ ] [Tuesday The Android Manifest]()
+- [ ] [Tuesday App Bar, Hierarchical Parent and Android Themes]()
+- [ ] [Tuesday View.OnClickListener Interface]()
+- [ ] [Wednesday Creating a GridView with a Custom Layout File]()
+- [ ] [Wednesday Boggle Solitaire]()
+- [ ] [Thursday Working with Simple Fragments - DialogFragment]()
+- [ ] [Thursday Local Business App]()
+- [ ] [Thursday Optional Further Exploration: Using a builder class to create a dialog]()
+
+#### (Week 2) Web Service Backends and Custom Fragments
+- [ ] [Weekend Web Service Backends and Custom Fragments Objectives]()
+- [ ] [Weekend Managing API Keys]()
+- [ ] [Weekend Backend Web Services with OkHttp]()
+- [ ] [Weekend API Security, OAuth and SignPost]()
+- [ ] [Weekend API Requests and Responses]()
+- [ ] [Weekend JSON and Data Models]()
+- [ ] [Weekend Threading and the UI Thread]()
+- [ ] [Weekend Refactor: Subpackages]()
+- [ ] [Weekend Custom Adapters with RecyclerView]()
+- [ ] [Weekend Images with Picasso]()
+- [ ] [Weekend Android Activity Lifecycle]()
+- [ ] [Weekend LinkedIn, Mock Interviews, and Cover Letters Preparation]()
+- [ ] [Monday LinkedIn, Mock Interviews, and Cover Letters Classwork]()
+- [ ] [Monday Independent Project API Homework]()
+- [ ] [Tuesday MyRestaurants and Weather App]()
+- [ ] [Tuesday Custom Fragments]()
+- [ ] [Tuesday Parcelables and PagerAdapters]()
+- [ ] [Wednesday Weather App Continued]()
+- [ ] [Wednesday Refactor: Scaling Images]()
+- [ ] [Wednesday Implicit Intents]()
+- [ ] [Thursday Movie App]()
+- [ ] [Thursday Technical Interview Prep: Web Service Backends and Fragments]()
+
+#### (Week 3) Data Persistence
+- [ ] [Weekend Data Persistence Objectives]()
+- [ ] [Weekend Shared Preferences]()
+- [ ] [Weekend NoSQL vs SQL : Database Review and Prep]()
+- [ ] [Weekend Setting up Firebase]()
+- [ ] [Weekend Firebase: Firebase Structure and Further Setup]()
+- [ ] [Weekend Firebase: Reading Data and Event Listeners]()
+- [ ] [Weekend Firebase: Writing POJOs]()
+- [ ] [Weekend Firebase: RecyclerAdapter]()
+- [ ] [Weekend Capstone Project Brainstorming Homework]()
+- [ ] [Monday Discussion Forum (Two-day project)]()
+- [ ] [Monday User Authentication Setup]()
+- [ ] [Monday Further Exploration: SearchView Widget]()
+- [ ] [Tuesday Registering Accounts in Firebase]()
+- [ ] [Tuesday Logging Out and Overflow Menus]()
+- [ ] [Tuesday Registering Accounts: Additional Features]()
+- [ ] [Wednesday Instant Messaging Application (Two-day project)]()
+- [ ] [Wednesday Logging In]()
+- [ ] [Thursday Weekly Technical Interview Prep: Data Persistence]()
+- [ ] [Thursday Connecting Users and Object Data]()
+
+#### (Week 4) Gestures, Animations & Flexible UIs
+- [ ] [Weekend Gestures, Animations, & Flexible UIs Objectives]()
+- [ ] [Weekend ItemTouchHelper Setup]()
+- [ ] [Weekend Implementing Gestures with ItemTouchHelper]()
+- [ ] [Weekend Updating Data After Gesture Interactions]()
+- [ ] [Weekend Animations]()
+- [ ] [Weekend The Minimum Viable Product]()
+- [ ] [Weekend Independent Capstone Project Proposal]()
+- [ ] [Monday MyRestaurants, Bells & Whistles]()
+- [ ] [Monday Flexible UIs: Fragments]()
+- [ ] [Tuesday Flexible UI App of Choice (Three-Day Project)]()
+- [ ] [Tuesday Flexible UIs: Alternative Resources]()
+- [ ] [Tuesday Communicating Between Fragments & Activities]()
+- [ ] [Wednesday Customizing Reusable Fragments]()
+- [ ] [Wednesday Using the Camera and Saving Images to Firebase]()
+- [ ] [Thursday Preparing Apps for Production]()
+
+#### (Week 5) Independent Capstone Projects
+- [ ] [Weekend Independent Capstone Project Week Overview]()
+
+****
+
+### Internship and Job Search
+
+#### Internship Process
+- [ ] [Weekend Internship Process]()
+- [ ] [Monday LinkedIn, Mock Interviews, and Cover Letters Preparation]()
+- [ ] [Monday LinkedIn, Mock Interviews, and Cover Letters Classwork]()
+
+#### Preparing to apply for jobs
+- [ ] [Weekend Resume and LinkedIn]()
+- [ ] [Weekend Cover letter]()
+- [ ] [Weekend Sprucing up GitHub]()
+- [ ] [Weekend Homepage/portfolio site]()
+- [ ] [Weekend Demo Day]()
+
+#### Preparing for job interviews
+- [ ] [Weekend Non-Technical Interview]()
+- [ ] [Weekend Technical interviews]()
+- [ ] [Weekend Interview research]()
+- [ ] [Weekend Interview tips]()
+- [ ] [Weekend Negotiating a salary]()
+- [ ] [Weekend Review: How the Web Works]()
+
+
+****
+
+## Additional Material
+
+### CoderByte
+
+#### Full Stack Web Development
+##### Curriculum
+
+Front End
+- [ ] [HTML]()
+- [ ] [CSS]()
+- [ ] [Responsive Design & Bootstrap]()
+- [ ] [JavaScript Basics]()
+- [ ] [Advanced JavaScript Topics]()
+- [ ] [Algorithms & Data Structures with JavaScript]()
+- [ ] [jQuery & AJAX]()
+- [ ] [React]()
+- [ ] [Common Interview Questions]()
+- [ ] [Back End]()
+- [ ] [Node.js]()
+- [ ] [Express Framework]()
+- [ ] [Node.js Modules]()
+- [ ] [MongoDB & Mongoose]()
+- [ ] [Heroku]()
+
+#### Challenges(Do them in JavaScript and Java)
+- [ ] [JavaScript](https://coderbyte.com/language/First%20Factorial)
+- [ ] [Java](https://coderbyte.com/language/First%20Factorial)
+
+
+### Books
+
+#### JavaScript
+- [ ] [Eloquent JavaScript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf)
+
+You Don't Know JavaScript
+* - [ ] [Up & Going](https://drive.google.com/file/d/0B_u1rzdqYCnzbzRhTjZLLUhOcGs/view)
+* - [ ] [Scope & Closures](https://drive.google.com/file/d/0B_u1rzdqYCnzcWFLNXd5WHVSUkU/view)
+* - [ ] [this & Object Prototypes](https://drive.google.com/file/d/0B_u1rzdqYCnzOVV4dlJHTVQ0N2c/view)
+* - [ ] [Types & Grammar](https://drive.google.com/file/d/0B_u1rzdqYCnzWVpkWmI5Y0cxMDg/view)
+* - [ ] [Async & Performance](https://drive.google.com/file/d/0B_u1rzdqYCnzNC1ta1JtY3I5Szg/view)
+* - [ ] [ES6 & Beyond](https://drive.google.com/file/d/0B_u1rzdqYCnzRUlHcV9sQVpTMFE/view)
+
+- [ ] [Secrets of the JavaScript Ninja](https://drive.google.com/file/d/0B_u1rzdqYCnzWnFEbGNiQnBNcXM/view)
+
+
+#### Java
+- [ ] [Introduction to Java Programming](https://drive.google.com/file/d/0BxSFwVjo7MPDeHN5ZUVSV2V5ZTQ/view)
+
+
+#### tutorialspoint
+- [ ] [Android Application Development](https://www.tutorialspoint.com/android/android_tutorial.pdf)
+- [ ] [HTML](http://www.tutorialspoint.com/html/html_tutorial.pdf)
+- [ ] [HTML5](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
+- [ ] [AngularJS](https://www.tutorialspoint.com/angularjs/angularjs_tutorial.pdf)
+- [ ] [Bootstrap](https://www.tutorialspoint.com/bootstrap/bootstrap_tutorial.pdf)
+- [ ] [JavaScript](http://www.tutorialspoint.com/javascript/javascript_tutorial.pdf)
+- [ ] [CoffeeScript](http://www.tutorialspoint.com/coffeescript/coffeescript_tutorial.pdf)
+- [ ] [CSS](http://www.tutorialspoint.com/css/css_tutorial.pdf)
+- [ ] [NodeJS](https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf)
+- [ ] [jQuery](http://www.tutorialspoint.com/jquery/jquery_tutorial.pdf)
+- [ ] [jQueryUI](http://www.tutorialspoint.com/jqueryui/jqueryui_tutorial.pdf)
+- [ ] [Sass](https://www.tutorialspoint.com/sass/sass_tutorial.pdf)
+- [ ] [TypeScript](https://www.tutorialspoint.com/typescript/typescript_tutorial.pdf)
+- [ ] [Java](http://www.tutorialspoint.com/java/java_tutorial.pdf)
+- [ ] [Spring Framework](http://www.tutorialspoint.com/spring/spring_tutorial.pdf)
+- [ ] [Java Servlets](https://www.tutorialspoint.com/servlets/servlets_tutorial.pdf)
