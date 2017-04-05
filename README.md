@@ -205,50 +205,50 @@ Web Development Study Guide
 - [ ] [Thursday Contact form, Films table, Scores table, Nutrition facts](https://www.learnhowtoprogram.com/css/moving-forward-with-css/contact-form-films-table-scores-table-nutrition-facts)
 
 #### (Week 2) Responsive design
--[ ] [Weekend Responsive design objectives]()
--[ ] [Weekend Media queries]()
--[ ] [Weekend Responsive layout]()
--[ ] [Weekend Responsive wireframing]()
--[ ] [Monday Media queries practice, fluid images, Baker Street, fan page]()
--[ ] [Monday Responsive design patterns]()
--[ ] [Tuesday Patterns and parks]()
--[ ] [Tuesday Using Bootstrap's grid]()
--[ ] [Wednesday Bootstrap grid practice, Bagdad, Food Sense, OMSI]()
--[ ] [Thursday Choose your own adventure: Frameworks and jQuery]()
--[ ] [Thursday Weekly Technical Interview Prep: Responsive Design]()
+-[ ] [Weekend Responsive design objectives](https://www.learnhowtoprogram.com/css/responsive-design/responsive-design-objectives)
+-[ ] [Weekend Media queries](https://www.learnhowtoprogram.com/css/responsive-design/media-queries)
+-[ ] [Weekend Responsive layout](https://www.learnhowtoprogram.com/css/responsive-design/responsive-layout)
+-[ ] [Weekend Responsive wireframing](https://www.learnhowtoprogram.com/css/responsive-design/responsive-wireframing)
+-[ ] [Monday Media queries practice, fluid images, Baker Street, fan page](https://www.learnhowtoprogram.com/css/responsive-design/media-queries-practice-fluid-images-baker-street-fan-page)
+-[ ] [Monday Responsive design patterns](https://www.learnhowtoprogram.com/css/responsive-design/responsive-design-patterns)
+-[ ] [Tuesday Patterns and parks](https://www.learnhowtoprogram.com/css/responsive-design/patterns-and-parks)
+-[ ] [Tuesday Using Bootstrap's grid](https://www.learnhowtoprogram.com/css/responsive-design/using-bootstrap-s-grid)
+-[ ] [Wednesday Bootstrap grid practice, Bagdad, Food Sense, OMSI](https://www.learnhowtoprogram.com/css/responsive-design/bootstrap-grid-practice-bagdad-food-sense-omsi)
+-[ ] [Thursday Choose your own adventure: Frameworks and jQuery](https://www.learnhowtoprogram.com/css/responsive-design/choose-your-own-adventure-frameworks-and-jquery)
+-[ ] [Thursday Weekly Technical Interview Prep: Responsive Design](https://www.learnhowtoprogram.com/css/responsive-design/weekly-technical-interview-prep-responsive-design)
 
 #### (Week 3) Sass
-- [ ] [Weekend Sass Objectives]()
-- [ ] [Weekend What is Sass?]()
-- [ ] [Weekend Installing and using Sass]()
-- [ ] [Weekend Learning Sass]()
-- [ ] [Monday Sass practice]()
-- [ ] [Monday Learning to think modularly]()
-- [ ] [Tuesday CSS to Sass, library redux]()
-- [ ] [Tuesday Structuring your Sass project]()
-- [ ] [Tuesday Incorporating Bourbon and Neat]()
-- [ ] [Wednesday The Guardian, Facebook, periodic table (2-day project)]()
-- [ ] [Thursday Weekly Technical Interview Prep: Sass]()
-- [ ] [Friday Sass independent project]()
+- [ ] [Weekend Sass Objectives](https://www.learnhowtoprogram.com/css/sass/sass-objectives)
+- [ ] [Weekend What is Sass?](https://www.learnhowtoprogram.com/css/sass/what-is-sass)
+- [ ] [Weekend Installing and using Sass](https://www.learnhowtoprogram.com/css/sass/installing-and-using-sass)
+- [ ] [Weekend Learning Sass](https://www.learnhowtoprogram.com/css/sass/learning-sass)
+- [ ] [Monday Sass practice](https://www.learnhowtoprogram.com/css/sass/sass-practice)
+- [ ] [Monday Learning to think modularly](https://www.learnhowtoprogram.com/css/sass/learning-to-think-modularly)
+- [ ] [Tuesday CSS to Sass, library redux](https://www.learnhowtoprogram.com/css/sass/css-to-sass-library-redux)
+- [ ] [Tuesday Structuring your Sass project](https://www.learnhowtoprogram.com/css/sass/structuring-your-sass-project)
+- [ ] [Tuesday Incorporating Bourbon and Neat](https://www.learnhowtoprogram.com/css/sass/incorporating-bourbon-and-neat)
+- [ ] [Wednesday The Guardian, Facebook, periodic table (2-day project)](https://www.learnhowtoprogram.com/css/sass/the-guardian-facebook-periodic-table-2-day-project)
+- [ ] [Thursday Weekly Technical Interview Prep: Sass](https://www.learnhowtoprogram.com/css/sass/weekly-technical-interview-prep-sass)
+- [ ] [Friday Sass independent project](https://www.learnhowtoprogram.com/css/sass/sass-independent-project)
 
 #### (Week 4) Beyond the basics
-- [ ] [Weekend Beyond the basics objectives]()
-- [ ] [Weekend What is Flexbox?]()
-- [ ] [Weekend Cross-browser compatibility, vendor prefixes, autoprefixer]()
-- [ ] [Monday Flexbox Defense, flexy panels, dice, practical examples]()
-- [ ] [Monday Using Flexbox -- other practical examples]()
-- [ ] [Tuesday Practical examples, Nike, Album Art Exchange]()
-- [ ] [Tuesday Understanding CSS transitions and transforms]()
-- [ ] [Tuesday Understanding CSS animations]()
-- [ ] [Wednesday CodePen adventures]()
-- [ ] [Thursday Laying the groundwork for a personal portfolio (solo day)]()
-- [ ] [Friday Beyond the basics independent project]()
+- [ ] [Weekend Beyond the basics objectives](https://www.learnhowtoprogram.com/css/beyond-the-basics/beyond-the-basics-objectives)
+- [ ] [Weekend What is Flexbox?](https://www.learnhowtoprogram.com/css/beyond-the-basics/what-is-flexbox)
+- [ ] [Weekend Cross-browser compatibility, vendor prefixes, autoprefixer](https://www.learnhowtoprogram.com/css/beyond-the-basics/cross-browser-compatibility-vendor-prefixes-autoprefixer)
+- [ ] [Monday Flexbox Defense, flexy panels, dice, practical examples](https://www.learnhowtoprogram.com/css/beyond-the-basics/flexbox-defense-flexy-panels-dice-practical-examples)
+- [ ] [Monday Using Flexbox -- other practical examples](https://www.learnhowtoprogram.com/css/beyond-the-basics/using-flexbox-other-practical-examples)
+- [ ] [Tuesday Practical examples, Nike, Album Art Exchange](https://www.learnhowtoprogram.com/css/beyond-the-basics/practical-examples-nike-album-art-exchange)
+- [ ] [Tuesday Understanding CSS transitions and transforms](https://www.learnhowtoprogram.com/css/beyond-the-basics/understanding-css-transitions-and-transforms)
+- [ ] [Tuesday Understanding CSS animations](https://www.learnhowtoprogram.com/css/beyond-the-basics/understanding-css-animations)
+- [ ] [Wednesday CodePen adventures](https://www.learnhowtoprogram.com/css/beyond-the-basics/codepen-adventures)
+- [ ] [Thursday Laying the groundwork for a personal portfolio (solo day)](https://www.learnhowtoprogram.com/css/beyond-the-basics/laying-the-groundwork-for-a-personal-portfolio-solo-day)
+- [ ] [Friday Beyond the basics independent project](https://www.learnhowtoprogram.com/css/beyond-the-basics/beyond-the-basics-independent-project)
 
 #### (Week 5) Team Week
-- [ ] [Weekend Team Week Objectives]()
-- [ ] [Monday Git with Collaborators: Setup]()
-- [ ] [Monday Git with Collaborators: Workflow]()
-- [ ] [Friday Team Week Presentations and Code Review]()
+- [ ] [Weekend Team Week Objectives](https://www.learnhowtoprogram.com/css/team-week/team-week-objectives)
+- [ ] [Monday Git with Collaborators: Setup](https://www.learnhowtoprogram.com/css/team-week/git-with-collaborators-setup)
+- [ ] [Monday Git with Collaborators: Workflow](https://www.learnhowtoprogram.com/css/team-week/git-with-collaborators-workflow)
+- [ ] [Friday Team Week Presentations and Code Review](https://www.learnhowtoprogram.com/css/team-week/team-week-presentations-and-code-review)
 
 *****
 
@@ -689,24 +689,28 @@ Web Development Study Guide
 ### CoderByte
 
 #### Full Stack Web Development
+
+[Here](https://coderbyte.com/course/philosophers-guide-to-coding/)
+
 ##### Curriculum
 
 Front End
-- [ ] [HTML]()
-- [ ] [CSS]()
-- [ ] [Responsive Design & Bootstrap]()
-- [ ] [JavaScript Basics]()
-- [ ] [Advanced JavaScript Topics]()
-- [ ] [Algorithms & Data Structures with JavaScript]()
-- [ ] [jQuery & AJAX]()
-- [ ] [React]()
-- [ ] [Common Interview Questions]()
-- [ ] [Back End]()
-- [ ] [Node.js]()
-- [ ] [Express Framework]()
-- [ ] [Node.js Modules]()
-- [ ] [MongoDB & Mongoose]()
-- [ ] [Heroku]()
+* - [ ] HTML
+* - [ ] CSS
+* - [ ] Responsive Design & Bootstrap
+* - [ ] JavaScript Basics
+* - [ ] Advanced JavaScript Topics
+* - [ ] Algorithms & Data Structures with JavaScript
+* - [ ] jQuery & AJAX
+* - [ ] React
+* - [ ] Common Interview Questions
+
+Back End
+* - [ ] Node.js
+* - [ ] Express Framework
+* - [ ] Node.js Modules
+* - [ ] MongoDB & Mongoose
+* - [ ] Heroku
 
 #### Challenges(Do them in JavaScript and Java)
 - [ ] [JavaScript](https://coderbyte.com/language/First%20Factorial)
@@ -725,6 +729,7 @@ You Don't Know JavaScript
 * - [ ] [Types & Grammar](https://drive.google.com/file/d/0B_u1rzdqYCnzWVpkWmI5Y0cxMDg/view)
 * - [ ] [Async & Performance](https://drive.google.com/file/d/0B_u1rzdqYCnzNC1ta1JtY3I5Szg/view)
 * - [ ] [ES6 & Beyond](https://drive.google.com/file/d/0B_u1rzdqYCnzRUlHcV9sQVpTMFE/view)
+
 
 - [ ] [Secrets of the JavaScript Ninja](https://drive.google.com/file/d/0B_u1rzdqYCnzWnFEbGNiQnBNcXM/view)
 
