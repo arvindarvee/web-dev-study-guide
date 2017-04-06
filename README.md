@@ -209,17 +209,17 @@ They are ordered and included in a convenient checklist.
 - [ ] [Thursday Contact form, Films table, Scores table, Nutrition facts](https://www.learnhowtoprogram.com/css/moving-forward-with-css/contact-form-films-table-scores-table-nutrition-facts)
 
 #### (Week 2) Responsive design
--[ ] [Weekend Responsive design objectives](https://www.learnhowtoprogram.com/css/responsive-design/responsive-design-objectives)
--[ ] [Weekend Media queries](https://www.learnhowtoprogram.com/css/responsive-design/media-queries)
--[ ] [Weekend Responsive layout](https://www.learnhowtoprogram.com/css/responsive-design/responsive-layout)
--[ ] [Weekend Responsive wireframing](https://www.learnhowtoprogram.com/css/responsive-design/responsive-wireframing)
--[ ] [Monday Media queries practice, fluid images, Baker Street, fan page](https://www.learnhowtoprogram.com/css/responsive-design/media-queries-practice-fluid-images-baker-street-fan-page)
--[ ] [Monday Responsive design patterns](https://www.learnhowtoprogram.com/css/responsive-design/responsive-design-patterns)
--[ ] [Tuesday Patterns and parks](https://www.learnhowtoprogram.com/css/responsive-design/patterns-and-parks)
--[ ] [Tuesday Using Bootstrap's grid](https://www.learnhowtoprogram.com/css/responsive-design/using-bootstrap-s-grid)
--[ ] [Wednesday Bootstrap grid practice, Bagdad, Food Sense, OMSI](https://www.learnhowtoprogram.com/css/responsive-design/bootstrap-grid-practice-bagdad-food-sense-omsi)
--[ ] [Thursday Choose your own adventure: Frameworks and jQuery](https://www.learnhowtoprogram.com/css/responsive-design/choose-your-own-adventure-frameworks-and-jquery)
--[ ] [Thursday Weekly Technical Interview Prep: Responsive Design](https://www.learnhowtoprogram.com/css/responsive-design/weekly-technical-interview-prep-responsive-design)
+- [ ] [Weekend Responsive design objectives](https://www.learnhowtoprogram.com/css/responsive-design/responsive-design-objectives)
+- [ ] [Weekend Media queries](https://www.learnhowtoprogram.com/css/responsive-design/media-queries)
+- [ ] [Weekend Responsive layout](https://www.learnhowtoprogram.com/css/responsive-design/responsive-layout)
+- [ ] [Weekend Responsive wireframing](https://www.learnhowtoprogram.com/css/responsive-design/responsive-wireframing)
+- [ ] [Monday Media queries practice, fluid images, Baker Street, fan page](https://www.learnhowtoprogram.com/css/responsive-design/media-queries-practice-fluid-images-baker-street-fan-page)
+- [ ] [Monday Responsive design patterns](https://www.learnhowtoprogram.com/css/responsive-design/responsive-design-patterns)
+- [ ] [Tuesday Patterns and parks](https://www.learnhowtoprogram.com/css/responsive-design/patterns-and-parks)
+- [ ] [Tuesday Using Bootstrap's grid](https://www.learnhowtoprogram.com/css/responsive-design/using-bootstrap-s-grid)
+- [ ] [Wednesday Bootstrap grid practice, Bagdad, Food Sense, OMSI](https://www.learnhowtoprogram.com/css/responsive-design/bootstrap-grid-practice-bagdad-food-sense-omsi)
+- [ ] [Thursday Choose your own adventure: Frameworks and jQuery](https://www.learnhowtoprogram.com/css/responsive-design/choose-your-own-adventure-frameworks-and-jquery)
+- [ ] [Thursday Weekly Technical Interview Prep: Responsive Design](https://www.learnhowtoprogram.com/css/responsive-design/weekly-technical-interview-prep-responsive-design)
 
 #### (Week 3) Sass
 - [ ] [Weekend Sass Objectives](https://www.learnhowtoprogram.com/css/sass/sass-objectives)
