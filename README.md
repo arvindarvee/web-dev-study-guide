@@ -934,15 +934,15 @@ You Don't Know JavaScript
 - [ ] [Algebra and Trigonometry](https://cnx.org/contents/E6wQevFf@6.36:nU8Qkzwo@4/Introduction-to-Prerequisites)
 
 
-#### Challenges
+### **Bonus: Challenges**
 
-##### CodeWar
+#### CodeWar
 [Website](https://www.codewars.com/)
 * - [ ] Java
 * - [ ] JavaScript
 * - [ ] TypeScript
 
-##### 30 Days of JavaScript
+#### 30 Days of JavaScript
 [Website](https://javascript30.com/)
 
 - [ ] 01 - JavaScript Drum Kit
