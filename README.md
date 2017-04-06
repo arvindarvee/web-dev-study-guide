@@ -698,12 +698,14 @@ They are ordered and included in a convenient checklist.
 - [ ] Responsive Design with Bootstrap(5 hours)
 - [ ] Gear up for Success(20 minutes)
 - [ ] jQuery(3 hours)
+
 Basic Front End Development Projects(50 hours)
 * - [ ] Get Set for our Front End Development Projects
 * - [ ] Build a Tribute Page
 * - [ ] Build a Personal Portfolio Webpage
 - [ ] Basic JavaScript(10 hours)
 - [ ] Object Oriented and Functional Programming(2 hours)
+
 Basic Algorithm Scripting(50 hours)
 * - [ ] Get Set for our Algorithm Challenges
 * - [ ] Reverse a String
@@ -723,11 +725,13 @@ Basic Algorithm Scripting(50 hours)
 * - [ ] Where do I belong
 * - [ ] Caesars Cipher
 - [ ] JSON APIs and Ajax(2 hours)
+
 Intermediate Front End Development Projects(100 hours)
 * - [ ] Build a Random Quote Machine
 * - [ ] Show the Local Weather
 * - [ ] Build a Wikipedia Viewer
 * - [ ] Use the Twitch.tv JSON API
+
 Intermediate Algorithm Scripting(50 hours)
 * - [ ] Sum All Numbers in a Range
 * - [ ] Diff Two Arrays
@@ -750,6 +754,7 @@ Intermediate Algorithm Scripting(50 hours)
 * - [ ] Binary Agents
 * - [ ] Everything Be True
 * - [ ] Arguments Optional
+
 Advanced Algorithm Scripting(50 hours)
 * - [ ] Validate US Telephone Numbers
 * - [ ] Record Collection
@@ -760,6 +765,7 @@ Advanced Algorithm Scripting(50 hours)
 * - [ ] Make a Person
 * - [ ] Map the Debris
 * - [ ] Pairwise
+
 Advanced Front End Development Projects(150 hours)
 * - [ ] Build a JavaScript Calculator
 * - [ ] Build a Pomodoro Clock
@@ -770,6 +776,7 @@ Advanced Front End Development Projects(150 hours)
 #### Data Visualization Certification
 - [ ] Sass(5 hours)
 - [ ] React(5 hours)
+
 React Projects(200 hours)
 * - [ ] Build a Markdown Previewer
 * - [ ] Build a Camper Leaderboard
@@ -777,6 +784,7 @@ React Projects(200 hours)
 * - [ ] Build the Game of Life
 * - [ ] Build a Roguelike Dungeon Crawler Game
 - [ ] D3(5 hours)
+
 Data Visualization Projects(200 hours)
 * - [ ] Visualize Data with a Bar Chart
 * - [ ] Visualize Data with a Scatterplot Graph
@@ -787,6 +795,7 @@ Data Visualization Projects(200 hours)
 
 #### Back End Development Certification
 - [ ] Automated Testing and Debugging(15 minutes)
+
 Node.js and Express.js(20 hours)
 * - [ ] Manage Packages with npm
 * - [ ] Start a Node.js Server
@@ -795,6 +804,7 @@ Node.js and Express.js(20 hours)
 * - [ ] Build Web Apps with Express.js
 - [ ] Git(3 hours)
 - [ ] MongoDB(3 hours)
+
 API Projects(150 hours)
 * - [ ] Get Set for our API Development Projects
 * - [ ] Timestamp Microservice
