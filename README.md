@@ -460,7 +460,7 @@ They are ordered and included in a convenient checklist.
 - [ ] [Wednesday Testing with Objects](https://www.learnhowtoprogram.com/java/behavior-driven-development-with-java-604c2c27-3431-444d-8047-2fb947d022c6/testing-with-objects-7f80489a-0fc0-4cc0-b776-d7b8694cb139)
 - [ ] [Wednesday Git: Ignoring Files](https://www.learnhowtoprogram.com/java/behavior-driven-development-with-java-604c2c27-3431-444d-8047-2fb947d022c6/git-ignoring-files)
 - [ ] [Wednesday Java Primitives: char](https://www.learnhowtoprogram.com/java/behavior-driven-development-with-java-604c2c27-3431-444d-8047-2fb947d022c6/java-primitives-char)
-- [ ] [Wednesday Random](https://www.learnhowtoprogram.com/java/behavior-driven-development-with-java-604c2c27-3431-444d-8047-2fb947d022c6/random-68392098-9f31-43a9-ad99-40e6b8350558
+- [ ] [Wednesday Random](https://www.learnhowtoprogram.com/java/behavior-driven-development-with-java-604c2c27-3431-444d-8047-2fb947d022c6/random-68392098-9f31-43a9-ad99-40e6b8350558)
 - [ ] [Thursday Leap Year, Rectangles, Word Game, Blackjack, and More](https://www.learnhowtoprogram.com/java/behavior-driven-development-with-java-604c2c27-3431-444d-8047-2fb947d022c6/leap-year-rectangles-word-game-blackjack-and-more)
 - [ ] [Thursday Formatted Strings](https://www.learnhowtoprogram.com/java/behavior-driven-development-with-java-604c2c27-3431-444d-8047-2fb947d022c6/formatted-strings-629d51a6-690d-46b9-b572-7f4ece4eb830)
 - [ ] [Thursday Nested Looping](https://www.learnhowtoprogram.com/java/behavior-driven-development-with-java-604c2c27-3431-444d-8047-2fb947d022c6/nested-looping-ce4909cc-5f50-42a7-bf3b-7fbfac89a65a)
