@@ -1,6 +1,10 @@
 Web Development Study Guide
 ====================
-#### All the courses I plan to take are provided for free on Epicodus' companion website [learnhowtoprogram.com](https://www.learnhowtoprogram.com/courses). They are ordered and included in a convenient checklist.
+#### All the courses I plan to take are provided for free on these websites:
+[LearnHowToProgram](https://www.learnhowtoprogram.com/courses).
+[CoderByte](https://coderbyte.com/)
+[FreeCodeCamp](https://www.freecodecamp.com/)
+They are ordered and included in a convenient checklist.
 
 *****
 
@@ -20,14 +24,14 @@ Web Development Study Guide
 - [ ] [Weekend Independent Projects and Code Reviews](https://www.learnhowtoprogram.com/intro-to-programming/getting-started-at-epicodus-64627971-b5be-49e7-a8d7-7ca55d0c9e88/independent-projects-and-code-reviews)
 
 #### (Pre-Work) Getting Started with Intro to Programming
-- [ ] [Weekend Welcome to Intro]()
-- [ ] [Weekend Introduction to the Command Line]()
-- [ ] [Weekend Interacting with the Command Line]()
-- [ ] [Weekend Practice: Command line]()
-- [ ] [Weekend Text Editor: Atom]()
-- [ ] [Weekend Git and GitHub]()
-- [ ] [Weekend Git Configurations]()
-- [ ] [Weekend Homework: Installation and Setup]()
+- [ ] [Weekend Welcome to Intro](https://www.learnhowtoprogram.com/intro-to-programming/getting-started-with-intro-to-programming/welcome-to-intro)
+- [ ] [Weekend Introduction to the Command Line](https://www.learnhowtoprogram.com/intro-to-programming/getting-started-with-intro-to-programming/introduction-to-the-command-line)
+- [ ] [Weekend Interacting with the Command Line](https://www.learnhowtoprogram.com/intro-to-programming/getting-started-with-intro-to-programming/interacting-with-the-command-line)
+- [ ] [Weekend Practice: Command line](https://www.learnhowtoprogram.com/intro-to-programming/getting-started-with-intro-to-programming/practice-command-line)
+- [ ] [Weekend Text Editor: Atom](https://www.learnhowtoprogram.com/intro-to-programming/getting-started-with-intro-to-programming/text-editor-atom)
+- [ ] [Weekend Git and GitHub](https://www.learnhowtoprogram.com/intro-to-programming/getting-started-with-intro-to-programming/git-and-github)
+- [ ] [Weekend Git Configurations](https://www.learnhowtoprogram.com/intro-to-programming/getting-started-with-intro-to-programming/git-configurations)
+- [ ] [Weekend Homework: Installation and Setup](https://www.learnhowtoprogram.com/intro-to-programming/getting-started-with-intro-to-programming/homework-installation-and-setup)
 
 #### (Week 1) Git, HTML and CSS
 - [ ] [Weekend Git, HTML and CSS Objectives](https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/git-html-and-css-objectives)
@@ -682,10 +686,171 @@ Web Development Study Guide
 - [ ] [Weekend Negotiating a salary](https://www.learnhowtoprogram.com/internship-and-job-search/preparing-for-job-interviews/negotiating-a-salary)
 - [ ] [Weekend Review: How the Web Works](https://www.learnhowtoprogram.com/internship-and-job-search/preparing-for-job-interviews/review-how-the-web-works)
 
-
+****
 ****
 
-## Additional Material
+### FreeCodeCamp
+
+[Map](https://www.freecodecamp.com/map)
+
+#### Front End Development Certification
+- [ ] HTML5 and CSS(5 hours)
+- [ ] Responsive Design with Bootstrap(5 hours)
+- [ ] Gear up for Success(20 minutes)
+- [ ] jQuery(3 hours)
+Basic Front End Development Projects(50 hours)
+* - [ ] Get Set for our Front End Development Projects
+* - [ ] Build a Tribute Page
+* - [ ] Build a Personal Portfolio Webpage
+- [ ] Basic JavaScript(10 hours)
+- [ ] Object Oriented and Functional Programming(2 hours)
+Basic Algorithm Scripting(50 hours)
+* - [ ] Get Set for our Algorithm Challenges
+* - [ ] Reverse a String
+* - [ ] Factorialize a Number
+* - [ ] Check for Palindromes
+* - [ ] Find the Longest Word in a String
+* - [ ] Title Case a Sentence
+* - [ ] Return Largest Numbers in Arrays
+* - [ ] Confirm the Ending
+* - [ ] Repeat a string repeat a string
+* - [ ] Truncate a string
+* - [ ] Chunky Monkey
+* - [ ] Slasher Flick
+* - [ ] Mutations
+* - [ ] Falsy Bouncer
+* - [ ] Seek and Destroy
+* - [ ] Where do I belong
+* - [ ] Caesars Cipher
+- [ ] JSON APIs and Ajax(2 hours)
+Intermediate Front End Development Projects(100 hours)
+* - [ ] Build a Random Quote Machine
+* - [ ] Show the Local Weather
+* - [ ] Build a Wikipedia Viewer
+* - [ ] Use the Twitch.tv JSON API
+Intermediate Algorithm Scripting(50 hours)
+* - [ ] Sum All Numbers in a Range
+* - [ ] Diff Two Arrays
+* - [ ] Roman Numeral Converter
+* - [ ] Wherefore art thou
+* - [ ] Search and Replace
+* - [ ] Pig Latin
+* - [ ] DNA Pairing
+* - [ ] Missing letters
+* - [ ] Boo who
+* - [ ] Sorted Union
+* - [ ] Convert HTML Entities
+* - [ ] Spinal Tap Case
+* - [ ] Sum All Odd Fibonacci Numbers
+* - [ ] Sum All Primes
+* - [ ] Smallest Common Multiple
+* - [ ] Finders Keepers
+* - [ ] Drop it
+* - [ ] Steamroller
+* - [ ] Binary Agents
+* - [ ] Everything Be True
+* - [ ] Arguments Optional
+Advanced Algorithm Scripting(50 hours)
+* - [ ] Validate US Telephone Numbers
+* - [ ] Record Collection
+* - [ ] Symmetric Difference
+* - [ ] Exact Change
+* - [ ] Inventory Update
+* - [ ] No repeats please
+* - [ ] Make a Person
+* - [ ] Map the Debris
+* - [ ] Pairwise
+Advanced Front End Development Projects(150 hours)
+* - [ ] Build a JavaScript Calculator
+* - [ ] Build a Pomodoro Clock
+* - [ ] Build a Tic Tac Toe Game
+* - [ ] Build a Simon Game
+- [ ] Claim Your Front End Development Certificate(5 minutes)
+
+#### Data Visualization Certification
+- [ ] Sass(5 hours)
+- [ ] React(5 hours)
+React Projects(200 hours)
+* - [ ] Build a Markdown Previewer
+* - [ ] Build a Camper Leaderboard
+* - [ ] Build a Recipe Box
+* - [ ] Build the Game of Life
+* - [ ] Build a Roguelike Dungeon Crawler Game
+- [ ] D3(5 hours)
+Data Visualization Projects(200 hours)
+* - [ ] Visualize Data with a Bar Chart
+* - [ ] Visualize Data with a Scatterplot Graph
+* - [ ] Visualize Data with a Heat Map
+* - [ ] Show National Contiguity with a Force Directed Graph
+* - [ ] Map Data Across the Globe
+- [ ] Claim Your Data Visualization Certificate(5 minutes)
+
+#### Back End Development Certification
+- [ ] Automated Testing and Debugging(15 minutes)
+Node.js and Express.js(20 hours)
+* - [ ] Manage Packages with npm
+* - [ ] Start a Node.js Server
+* - [ ] Continue working with Node.js Servers
+* - [ ] Finish working with Node.js Servers
+* - [ ] Build Web Apps with Express.js
+- [ ] Git(3 hours)
+- [ ] MongoDB(3 hours)
+API Projects(150 hours)
+* - [ ] Get Set for our API Development Projects
+* - [ ] Timestamp Microservice
+* - [ ] Request Header Parser Microservice
+* - [ ] URL Shortener Microservice
+* - [ ] Image Search Abstraction Layer
+* - [ ] File Metadata Microservice
+* - [ ] Dynamic Web Application Projects(250 hours)
+* - [ ] Get Set for our Dynamic Web Application Projects
+* - [ ] Build a Voting App
+* - [ ] Build a Nightlife Coordination App
+* - [ ] Chart the Stock Market
+* - [ ] Manage a Book Trading Club
+* - [ ] Build a Pinterest Clone
+- [ ] Claim Your Back End Development Certificate(5 minutes)
+
+#### Video Challenges
+- [ ] Computer Basics(2 hours)
+- [ ] The DOM(30 minutes)
+- [ ] JavaScript Lingo(1 hour)
+- [ ] Chrome Developer Tools(1 hour)
+- [ ] Big O Notation(30 minutes)
+- [ ] Accessibility(0 hours)
+- [ ] Agile(0 hours)
+- [ ] Computer Science(0 hours)
+- [ ] Data Visualization(0 hours)
+- [ ] Embedded and Internet of Things(0 hours)
+- [ ] Game Development(0 hours)
+- [ ] Gamification(0 hours)
+- [ ] Machine Learning(0 hours)
+- [ ] Math for Programmers(0 hours)
+- [ ] Mobile JavaScript Development(0 hours)
+- [ ] DevOps(0 hours)
+- [ ] Software Engineering Principles(0 hours)
+- [ ] Statistics(0 hours)
+- [ ] Tools(0 hours)
+- [ ] User Experience Design(0 hours)
+- [ ] Visual Design(0 hours)
+
+#### Full Stack Development Certification
+Nonprofit Projects(800 hours)
+* - [ ] Greenfield Nonprofit Project #1
+* - [ ] Greenfield Nonprofit Project #2
+* - [ ] Legacy Code Nonprofit Project #1
+* - [ ] Legacy Code Nonprofit Project #2
+* - [ ] Claim your Full Stack Development Certification
+
+#### Coding Interview Preparation
+Coding Interview Training(70 hours)
+* - [ ] Soft Skill Training
+* - [ ] Critical Thinking Training
+* - [ ] Whiteboard Coding Training
+- [ ] Mock Interviews(10 hours)
+
+****
+****
 
 ### CoderByte
 
@@ -717,6 +882,11 @@ Back End
 - [ ] [JavaScript](https://coderbyte.com/language/First%20Factorial)
 - [ ] [Java](https://coderbyte.com/language/First%20Factorial)
 
+
+*******
+*******
+
+## Additional Material
 
 ### Books
 
