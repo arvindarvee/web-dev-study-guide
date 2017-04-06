@@ -932,3 +932,46 @@ You Don't Know JavaScript
 - [ ] [Intermediate Algebra](https://cnx.org/contents/AndhM9Sd@3.1:HCaG_W5c@4/Introduction)
 - [ ] [College Algebra](https://cnx.org/contents/mwjClAV_@5.28:nU8Qkzwo@4/Introduction-to-Prerequisites)
 - [ ] [Algebra and Trigonometry](https://cnx.org/contents/E6wQevFf@6.36:nU8Qkzwo@4/Introduction-to-Prerequisites)
+
+
+#### Challenges
+
+##### CodeWar
+[Website](https://www.codewars.com/)
+* - [ ] Java
+* - [ ] JavaScript
+* - [ ] TypeScript
+
+##### 30 Days of JavaScript
+[Website](https://javascript30.com/)
+
+- [ ] 01 - JavaScript Drum Kit
+- [ ] 02 - JS and CSS Clock
+- [ ] 03 - CSS Variables
+- [ ] 04 - Array Cardio Day 1
+- [ ] 05 - Flex Panel Gallery
+- [ ] 06 - Type Ahead
+- [ ] 07 - Array Cardio Day 2
+- [ ] 08 - Fun with HTML5 Canvas
+- [ ] 09 - Dev Tools Domination
+- [ ] 10 - Hold Shift and Check Checkboxes
+- [ ] 11 - Custom Video Player
+- [ ] 12 - Key Sequence Detection
+- [ ] 13 - Slide in on Scroll
+- [ ] 14 - JavaScript References VS Copying
+- [ ] 15 - LocalStorage
+- [ ] 16 - Mouse Move Shadow
+- [ ] 17 - Sort Without Articles
+- [ ] 18 - Adding Up Times with Reduce
+- [ ] 19 - Webcam Fun
+- [ ] 20 - Speech Detection
+- [ ] 21 - Geolocation
+- [ ] 22 - Follow Along Link Highlighter
+- [ ] 23 - Speech Synthesis
+- [ ] 24 - Sticky Nav	24 - Sticky Nav: reset index and sty
+- [ ] 25 - Event Capture, Propagation, Bubbling and Once
+- [ ] 26 - Stripe Follow Along Nav
+- [ ] 27 - Click and Drag
+- [ ] 28 - Video Speed Controller
+- [ ] 29 - Countdown Timer
+- [ ] 30 - Whack A Mole
