@@ -909,22 +909,22 @@ You Don't Know JavaScript
 - [ ] [Introduction to Java Programming](https://drive.google.com/file/d/0BxSFwVjo7MPDeHN5ZUVSV2V5ZTQ/view)
 
 #### tutorialspoint
-- [ ] [Android Application Development](https://www.tutorialspoint.com/android/android_tutorial.pdf)
 - [ ] [HTML](http://www.tutorialspoint.com/html/html_tutorial.pdf)
 - [ ] [HTML5](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
-- [ ] [AngularJS](https://www.tutorialspoint.com/angularjs/angularjs_tutorial.pdf)
+- [ ] [CSS](http://www.tutorialspoint.com/css/css_tutorial.pdf)
+- [ ] [Sass](https://www.tutorialspoint.com/sass/sass_tutorial.pdf)
 - [ ] [Bootstrap](https://www.tutorialspoint.com/bootstrap/bootstrap_tutorial.pdf)
 - [ ] [JavaScript](http://www.tutorialspoint.com/javascript/javascript_tutorial.pdf)
-- [ ] [CoffeeScript](http://www.tutorialspoint.com/coffeescript/coffeescript_tutorial.pdf)
-- [ ] [CSS](http://www.tutorialspoint.com/css/css_tutorial.pdf)
-- [ ] [NodeJS](https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf)
 - [ ] [jQuery](http://www.tutorialspoint.com/jquery/jquery_tutorial.pdf)
 - [ ] [jQueryUI](http://www.tutorialspoint.com/jqueryui/jqueryui_tutorial.pdf)
-- [ ] [Sass](https://www.tutorialspoint.com/sass/sass_tutorial.pdf)
+- [ ] [AngularJS](https://www.tutorialspoint.com/angularjs/angularjs_tutorial.pdf)
+- [ ] [NodeJS](https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf)
+- [ ] [CoffeeScript](http://www.tutorialspoint.com/coffeescript/coffeescript_tutorial.pdf)
 - [ ] [TypeScript](https://www.tutorialspoint.com/typescript/typescript_tutorial.pdf)
 - [ ] [Java](http://www.tutorialspoint.com/java/java_tutorial.pdf)
 - [ ] [Spring Framework](http://www.tutorialspoint.com/spring/spring_tutorial.pdf)
 - [ ] [Java Servlets](https://www.tutorialspoint.com/servlets/servlets_tutorial.pdf)
+- [ ] [Android Application Development](https://www.tutorialspoint.com/android/android_tutorial.pdf)
 
 #### OpenStax Math
 - [ ] [Prealgebra](https://cnx.org/contents/yqV9q0HH@9.729:plLt9FYr@4/Introduction)
