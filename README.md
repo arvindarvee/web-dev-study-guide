@@ -755,3 +755,10 @@ You Don't Know JavaScript
 - [ ] [Java](http://www.tutorialspoint.com/java/java_tutorial.pdf)
 - [ ] [Spring Framework](http://www.tutorialspoint.com/spring/spring_tutorial.pdf)
 - [ ] [Java Servlets](https://www.tutorialspoint.com/servlets/servlets_tutorial.pdf)
+
+#### OpenStax Math
+- [ ] [Prealgebra](https://cnx.org/contents/yqV9q0HH@9.729:plLt9FYr@4/Introduction)
+- [ ] [Elementary Algebra](https://cnx.org/contents/CImQfPDv@2.23:GfaWl1GG@4/Introduction)
+- [ ] [Intermediate Algebra](https://cnx.org/contents/AndhM9Sd@3.1:HCaG_W5c@4/Introduction)
+- [ ] [College Algebra](https://cnx.org/contents/mwjClAV_@5.28:nU8Qkzwo@4/Introduction-to-Prerequisites)
+- [ ] [Algebra and Trigonometry](https://cnx.org/contents/E6wQevFf@6.36:nU8Qkzwo@4/Introduction-to-Prerequisites)
