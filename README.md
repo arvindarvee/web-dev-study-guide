@@ -1,9 +1,6 @@
 Web Development Study Guide
 ====================
-#### All the courses I plan to take are provided for free on these websites:
-[LearnHowToProgram](https://www.learnhowtoprogram.com/courses).
-[CoderByte](https://coderbyte.com/)
-[FreeCodeCamp](https://www.freecodecamp.com/)
+#### The following are free courses
 They are ordered and included in a convenient checklist.
 
 *****
@@ -915,9 +912,6 @@ You Don't Know JavaScript
 - [ ] [Secrets of the JavaScript Ninja](https://drive.google.com/file/d/0B_u1rzdqYCnzWnFEbGNiQnBNcXM/view)
 
 
-#### Java
-- [ ] [Introduction to Java Programming](https://drive.google.com/file/d/0BxSFwVjo7MPDeHN5ZUVSV2V5ZTQ/view)
-
 #### tutorialspoint
 - [ ] [HTML](http://www.tutorialspoint.com/html/html_tutorial.pdf)
 - [ ] [HTML5](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
@@ -951,6 +945,7 @@ You Don't Know JavaScript
 * - [ ] Java
 * - [ ] JavaScript
 * - [ ] TypeScript
+* - [ ] SQL
 
 #### 30 Days of JavaScript
 [Website](https://javascript30.com/)
@@ -985,3 +980,72 @@ You Don't Know JavaScript
 - [ ] 28 - Video Speed Controller
 - [ ] 29 - Countdown Timer
 - [ ] 30 - Whack A Mole
+
+
+### Optional Paid Courses
+
+#### HTML5 and CSS3 All-in-One For Dummies, 3rd Edition
+
+##### Part I: Creating the HTML Foundation
+- [ ] Chapter 1: Sound HTML Foundations
+- [ ] Chapter 2: It’s All About Validation
+- [ ] Chapter 3: Choosing Your Tools
+- [ ] Chapter 4: Managing Information with Lists and Tables
+- [ ] Chapter 5: Making Connections with Links
+- [ ] Chapter 6: Adding Images, Sound, and Video
+- [ ] Chapter 7: Creating Forms
+
+##### Part II: Styling with CSS
+- [ ] Chapter 1: Coloring Your World
+- [ ] Chapter 2: Styling Text
+- [ ] Chapter 3: Selectors: Coding with Class and Style
+- [ ] Chapter 4: Borders and Backgrounds
+- [ ] Chapter 5: Levels of CSS
+- [ ] Chapter 6: CSS Special Effects
+
+##### Part III: Building Layouts with CSS
+- [ ] Chapter 1: Fun with the Fabulous Float
+- [ ] Chapter 2: Building Floating Page Layouts
+- [ ] Chapter 3: Styling Lists and Menus
+- [ ] Chapter 4: Using Alternative Positioning
+
+##### Part IV: Client-Side Programming with JavaScript
+- [ ] Chapter 1: Getting Started with JavaScript
+- [ ] Chapter 2: Talking to the Page
+- [ ] Chapter 3: Decisions and Debugging
+- [ ] Chapter 4: Functions, Arrays, and Objects
+- [ ] Chapter 5: Getting Valid Input
+- [ ] Chapter 6: Drawing on the Canvas
+- [ ] Chapter 7: Animation with the Canvas
+
+##### Part V: Server-Side Programming with PHP
+- [ ] Chapter 1: Getting Started on the Server
+- [ ] Chapter 2: PHP and HTML Forms
+- [ ] Chapter 3: Using Control Structures
+- [ ] Chapter 4: Working with Arrays
+- [ ] Chapter 5: Using Functions and Session Variables
+- [ ] Chapter 6: Working with Files and Directories
+- [ ] Chapter 7: Exceptions and Objects
+
+##### Part VI: Managing Data with MySQL
+- [ ] Chapter 1: Getting Started with Data
+- [ ] Chapter 2: Managing Data with MySQL
+- [ ] Chapter 3: Normalizing Your Data
+- [ ] Chapter 4: Putting Data Together with Joins
+- [ ] Chapter 5: Connecting PHP to a MySQL Database
+
+##### Part VII: Integrating the Client and Server with AJAX
+- [ ] Chapter 1: AJAX Essentials
+- [ ] Chapter 2: Improving JavaScript and AJAX with jQuery
+- [ ] Chapter 3: Animating jQuery
+- [ ] Chapter 4: Using the jQuery User Interface Toolkit
+- [ ] Chapter 5: Improving Usability with jQuery
+- [ ] Chapter 6: Working with AJAX Data
+- [ ] Chapter 7: Going Mobile 883
+
+##### Part VIII: Moving from Pages to Sites 909
+- [ ] Chapter 1: Managing Your Servers 911
+- [ ] Chapter 2: Planning Your Sites 933
+- [ ] Chapter 3: Introducing Content Management Systems 953
+- [ ] Chapter 4: Editing Graphics 977
+- [ ] Chapter 5: Taking Control of Content 995
